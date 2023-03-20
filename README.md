@@ -1,5 +1,5 @@
 
-# An interactive student community platform
+#Student Interactive Community Platform
 Despite the numerous benefits of peer learning in universities, including increased engagement, improved retention rates, and enhanced critical thinking skills, many institutions struggle to implement effective peer learning programs. Common challenges include a lack of faculty support, limited resources, and a lack of training for both students and instructors. Additionally, peer learning may not be suitable for all courses or students, and there may be cultural or social barriers that hinder its success. To fully realize the potential of peer learning, universities need to address these challenges and develop strategies that ensure the effectiveness and sustainability of peer learning programs.
 
 
